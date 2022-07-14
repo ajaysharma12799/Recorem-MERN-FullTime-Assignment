@@ -8,6 +8,12 @@ For Backend
 1. npm install
 2. npm run dev
 
+Create .env File In Main Project Directory
+Copy There Lines In That File
+
+DBURI=mongodb+srv://root:root@cluster0.p7hez.mongodb.net/?retryWrites=true&w=majority
+JWTSecret=RECOREM
+
 Note: Now In Command Prompt You Can See Backend Server has Started in Which you will Found PORT on Which This Backend is Running
 
 Copy That Port
